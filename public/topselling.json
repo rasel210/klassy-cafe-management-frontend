@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Margherita Pizza",
+      "img": "https://i.ibb.co/c6040GJ/images-6.jpg",
+      "category": "Pizza",
+      "Price": 8.99
+    },
+    {
+      "id": 2,
+      "title": "Caesar Salad",
+      "img": "https://i.ibb.co/FwP38MX/download-1.jpg",
+      "category": "Salad",
+      "Price": 6.49
+    },
+    {
+      "id": 3,
+      "title": "Beef Burger",
+      "img": "https://i.ibb.co/Z2xjnR1/download-2.jpg",
+      "category": "Burger",
+      "Price": 10.99
+    },
+    {
+      "id": 4,
+      "title": "Chicken Tikka Masala",
+      "img": "https://i.ibb.co/B3gB7Qr/download-3.jpg",
+      "category": "Indian",
+      "Price": 12.99
+    },
+    {
+      "id": 5,
+      "title": "Sushi Platter",
+      "img": "https://i.ibb.co/PDNghns/images.jpg",
+      "category": "Japanese",
+      "Price": 15.99
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Cake",
+      "img": "https://i.ibb.co/jD1jLcs/download-4.jpg",
+      "category": "Dessert",
+      "Price": 4.99
+    }
+  ]
+  
